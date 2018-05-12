@@ -1,4 +1,8 @@
 _repo: Prose-1880-1890_49523
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49523-h/images/cover.jpg
 creator:
   author:
     agent_name: Pascarella, Cesare
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '37194'
     url: http://www.gutenberg.org/2009/agents/37194
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49523#Prose-1880-1890
 gutenberg_bookshelf: IT Umorismo
 gutenberg_issued: '2015-07-25'
 gutenberg_type: Text
